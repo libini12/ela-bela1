@@ -1,0 +1,33 @@
+:root{
+--banco-principal:#FFFFFF;
+--cinza-segundario:#C0C0C0;
+--botão-azul:#167BF7;
+--cor-de-fundo:#00030C;
+--fonte-principal: 'inter';
+--botão-azul-efeito:#3c92fa;
+}
+ 
+body{
+background-color: var(--cor-de-fundo);
+color: var(--banco-principal);
+font-family: var(--fonte-principal);
+font-size: 16px;
+font-weight: 400;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
